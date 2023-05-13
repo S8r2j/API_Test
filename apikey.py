@@ -1,1 +1,1 @@
-key="a1d00280-9e0d-433b-885c-18f992c7a36b"
+key="your_api_key_from_where_you_extract_data_of_bitcoins_and_its_usd_prices"
